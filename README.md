@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Github. This is Opensource Lab2
 
 <!--
 **kkdujn/kkdujn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
